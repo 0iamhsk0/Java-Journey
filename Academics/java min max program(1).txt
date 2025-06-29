@@ -1,0 +1,20 @@
+//import java.lang - gets used everytime automatically
+
+Java min max progam:
+
+steps:
+// create wrapper class object
+//try auto boxing and auto unboxing
+// find min and max value for byte, short, int and long
+
+
+
+package com.wrapper;
+
+// creates a class file named wrapper
+// and sends to the JVM
+
+public class WrapperClasses{
+	public static void main(String[] args){
+	List <Integer> numbers = new ArrayList<Integer>();
+	number.add(10);

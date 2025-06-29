@@ -1,0 +1,176 @@
+OOPS:
+abstration
+encapsulation
+polymorphism
+inheritance
+
+### Abstraction ###
+natural mapping and association of the 
+data and programs showing essential data
+i.e hiding the internal implementation of the data
+and show the imp implementation only
+
+### encapsulation ###
+binding the data and methods together
+
+### polymorphism ###
+shows different forms
+
+### inheritance ### extend the existing functionality
+without disturbing the existing implementation
+
+- containment : allows to create complex relationships
+between entities
+
+- aggregation : 
+
+- compostion : 
+
+- every objects have attributes
+
+- to access data we use the methods the exposed onces
+which are part of the interface provided by a class
+- 
+
+
+
+functional interface:  
+
+//if the interface having only one method
+ then its called functional interface
+
+//local inner class
+//anonymous objects
+ 
+//types of exception handlings
+compile time errors or syntax type errors
+runtime  errors - these are called exception and we need to handle them
+logical errors
+//catch block only runs when the code has an exception
+
+
+Exception Handling
+Easy:
+
+Write a Java program that demonstrates the use of try, catch, and finally blocks to handle exceptions.
+Implement a method that throws a custom exception when an input value is negative.
+Medium:
+
+Create a Java program that shows the usage of throws and throw keywords to handle exceptions.
+Implement assertions in a Java program to validate certain conditions during runtime.
+Hard:
+
+Develop a multithreaded Java application where threads throw and catch exceptions independently.
+Implement exception handling to manage I/O operations with file streams.
+Multithreading
+Easy:
+
+Write a Java program to create a thread using the Thread class and the Runnable interface.
+Demonstrate a simple multithreading scenario with two threads printing messages concurrently.
+Medium:
+
+Implement a Java program using lambda expressions to create and manage multiple threads.
+Show how synchronization can be used to coordinate access to shared resources among threads.
+Hard:
+
+Develop a producer-consumer scenario using multithreading to demonstrate thread synchronization.
+Implement a concurrent data structure (e.g., ConcurrentHashMap) to handle concurrent access.
+Java Main Class
+Easy:
+
+Create a simple Java class with a main method that prints "Hello, world!".
+Implement a program that takes command-line arguments and processes them.
+Medium:
+
+Develop a Java application that demonstrates encapsulation, inheritance, and polymorphism.
+Create a main class that instantiates objects from multiple classes and interacts with them.
+Hard:
+
+Implement a Java application using a design pattern (e.g., Factory pattern) to create instances of different classes.
+Develop a modular Java application with multiple main classes representing different modules.
+Manipulating and Formatting Data
+Easy:
+
+Write a Java program to manipulate strings (e.g., concatenate, replace characters).
+Implement a program that formats numerical data using String.format().
+Medium:
+
+Develop a Java program that demonstrates the difference between String and StringBuilder.
+Implement a text processing program that reads and writes formatted data to a file.
+Hard:
+
+Create a program that uses regular expressions to manipulate textual data.
+Implement a complex string manipulation algorithm (e.g., pattern matching) using Java.
+Using Inheritance
+Easy:
+
+Develop a Java program with a superclass and subclass to demonstrate inheritance.
+Implement method overriding and access superclass methods from a subclass.
+Medium:
+
+Create an inheritance hierarchy with multiple levels of classes and demonstrate polymorphism.
+Develop a program that uses abstract classes and interfaces to model real-world entities.
+Hard:
+
+Implement an application that uses inheritance to model complex relationships (e.g., vehicle hierarchy).
+Develop a Java program that shows the use of super keyword to invoke superclass constructors.
+Overriding Methods, Polymorphism, and Static Classes
+Easy:
+
+Write a Java program that demonstrates method overriding and polymorphism.
+Implement a static class with static methods and demonstrate their usage.
+Medium:
+
+Create an application that uses polymorphism to process different types of objects.
+Implement a Java program that demonstrates the difference between static and instance methods.
+Hard:
+
+Develop a Java program that shows how to prevent method overriding using access modifiers.
+Implement a complex system using polymorphism to handle different types of tasks dynamically.
+Abstract and Nested Classes
+Easy:
+
+Write a Java program that uses abstract classes to define common behavior.
+Create a nested class inside another class and demonstrate its usage.
+Medium:
+
+Implement an application that uses abstract classes and interfaces to model a software system.
+Develop a complex nested class structure to encapsulate related functionalities.
+Hard:
+
+Create a program that demonstrates the advantages of using nested classes for encapsulation.
+Implement an application that uses abstract classes and nested classes to model real-world entities.
+Java IO
+Easy:
+
+Write a Java program to read input from the console and print it.
+Implement a program that reads and writes data to a text file using FileInputStream and FileOutputStream.
+Medium:
+
+Develop a file management system using Java IO to perform CRUD operations on files.
+Implement a program that reads and writes serialized objects to/from a file.
+Hard:
+
+Create a multithreaded file processing system using Java IO and synchronization techniques.
+Implement a complex file parsing program that reads structured data from files and performs operations.
+
+
+
+Collection frameworks:
+Set
+    hashset
+    linkedhashset
+    treeset
+list
+    arraylist
+    vector
+queue
+    linkedlist
+    priorityqueue
+map
+    hashmap
+    treemap
+    hashtable
+    linkedhashmap
+
+Note: all the tree frameworks 
